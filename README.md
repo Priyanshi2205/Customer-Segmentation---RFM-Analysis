@@ -10,6 +10,6 @@ As more and more businesses are coming up every day, it has become significantly
 * Step 6: Building Model (Hierarchical Cluster)
 
 
-Conclusion:
+# Conclusion:
 
 After analysing all of the models, we can come to the following conclusions. i.e., we've categorised clients who are similar in order to report and analyse data from our database. It allows you to spot trends in how you've acquired consumers and how different categories have interacted with your business. This allows you to learn more about what connects with different types of prospects during the marketing and sales process, as well as what forms of communications they like during service delivery.Knowing what your most successful customers have in common will help you better target your customer acquisition efforts.The input you receive from various segments will help you understand how your service is assisting your clients.This might help you figure out how to pitch your solution to prospects and identify demands that you can address in the future with new products or services.
