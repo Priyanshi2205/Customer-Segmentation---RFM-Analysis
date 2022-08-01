@@ -2,12 +2,12 @@
 As more and more businesses are coming up every day, it has become significantly important for the old businesses to apply marketing strategies to stay in the market as the competition.Customer segmentation and profiling employed RFM (Recency, Frequency, Monetary) method to know the loyalty of customers. RFM analysis is a data driven customer behaviour segmentation technique. RFM stands for recency, frequency, and monetary value. The idea is to segment customers based on when their last purchase was, how often they've purchased in the past, and how much they've spent overall.
 
 # IMPLEMENTATION STEPS
-Step-1: Import all Necessary libraries
-Step-2: Read and Load the Dataset
-Step 3: Preprocessing
-Step 4 Preparing Data For Modelling
-Step 5: Removing Outliers
-Step 6: Building Model (Hierarchical Cluster)
+* Step-1: Import all Necessary libraries
+* Step-2: Read and Load the Dataset
+* Step 3: Preprocessing
+* Step 4 Preparing Data For Modelling
+* Step 5: Removing Outliers
+* Step 6: Building Model (Hierarchical Cluster)
 
 
 Conclusion:
